@@ -16,10 +16,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 import com.codility.lessons.CountingElements.PermutationCheckTest;
 
 /**
- * https://app.codility.com/demo/results/trainingCEY5VM-9WC/
  *
- * @author Sunil
- *
+ * @author khaled.selim
  */
 @RunWith(SpringRunner.class)
 public class TriangleTest {
