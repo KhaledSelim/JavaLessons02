@@ -2,14 +2,12 @@ package com.codility.lessons.Sorting;
 
 import java.util.Arrays;
 
-/**
- * Maximize A[P] * A[Q] * A[R] for any triplet (P, Q, R).
+ /**
  * 
- * @author Sunil
- *
+ * @author khaled.selim
  */
 public class MaxProductOfThree {
-
+//Maximize A[P] * A[Q] * A[R] for any triplet (P, Q, R).
 	public int solution1(int[] A) {
 		Arrays.sort(A);
 		int N = A.length;
