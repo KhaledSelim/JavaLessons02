@@ -3,13 +3,11 @@ package com.codility.lessons.Sorting;
 import java.util.Arrays;
 
 /**
- * Determine whether a triangle can be built from a given set of edges.
  * 
- * @author Sunil
- *
+ * @author khaled.selim
  */
 public class Triangle {
-
+//Determine whether a triangle can be built from a given set of edges.
 	public int solution1(int[] A) {
 		Arrays.sort(A);
 		System.out.println("Lenght Of Array =" + A.length);
