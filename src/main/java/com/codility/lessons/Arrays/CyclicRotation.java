@@ -3,13 +3,13 @@ package com.codility.lessons.Arrays;
 import java.util.Arrays;
 
 /**
-
+ *
+ * @author khaled.selim
  */
 public class CyclicRotation {
 
 	public static void main(String[] args) {
 	
-	//https://codility.com/demo/results/trainingUBWFTE-G5D/
 	int[]	A = {-3, 8, 9, -7, 6} ;
 	int K = 3;
 	
