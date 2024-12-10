@@ -15,7 +15,8 @@ import org.slf4j.LoggerFactory;
 import org.springframework.test.context.junit4.SpringRunner;
 
 /**
- * https://app.codility.com/demo/results/trainingABYQAR-B7W/
+ *
+ * @author khaled.selim
  */
 @RunWith(SpringRunner.class)
 public class BinaryGapTest {
