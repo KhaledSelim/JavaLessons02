@@ -1,6 +1,7 @@
 package com.codility.lessons.Arrays;
 /**
- *  *
+ *
+ * @author khaled.selim
  */
 
 public class OddOccurrencesInArray {
