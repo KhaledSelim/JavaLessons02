@@ -1,8 +1,8 @@
 package com.codility.lessons.CountingElements;
 
 /**
- * <p>https://app.codility.com/demo/results/training4GF5TP-THG/ </p>
  *
+ * @author khaled.selim
  */
 public class PermutationCheck {
 
